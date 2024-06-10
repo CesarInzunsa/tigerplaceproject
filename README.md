@@ -1,18 +1,9 @@
 # Tiger Place
 
-### Descripción del proyecto
+### Project Description
 
-TigerPlace se enfoca en abordar la necesidad de apoyar a los estudiantes
-universitarios, facilitando la venta de productos y mejorando su situación
-económica. La creación de un marketplace específico para la comunidad
-estudiantil permitirá una interacción comercial simple y segura. La factibilidad se
-basa en la creciente adopción de tecnologías móviles y la colaboración directa con
-el alumnado del Tec Tepic.
+TigerPlace focuses on addressing the need to support university students by facilitating the sale of products and improving their economic situation. The creation of a marketplace specific to the student community will allow for simple and secure commercial interaction. The feasibility is based on the growing adoption of mobile technologies and direct collaboration with the Tec Tepic student body.
 
-### Justificación
-"TigerPlace" surge como un apoyo esencial para estudiantes emprendedores,
-proporcionando una plataforma dedicada para la promoción y comercialización de
-productos y servicios entre la comunidad universitaria.
-Este proyecto busca crear un entorno seguro y centralizado, eliminando la
-dependencia de aplicaciones de terceros. Con el objetivo de impulsar la autonomía
-estudiantil, confianza y desarrollo de los jóvenes estudiantes emprendedores.
+### Justification
+"TigerPlace" emerges as an essential support for entrepreneurial students, providing a dedicated platform for the promotion and marketing of products and services within the university community.
+This project seeks to create a safe and centralized environment, eliminating the dependence on third-party applications. With the aim of promoting student autonomy, trust, and development of young entrepreneurial students.
